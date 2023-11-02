@@ -14,6 +14,6 @@ Pretrain:
 
 - python pre_train.py
 
-Prompt tune and test:
+Prompting and test:
 
 - python run.py
